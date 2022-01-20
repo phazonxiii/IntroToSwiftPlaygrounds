@@ -39,6 +39,42 @@ var comparison = numberOne < numberTwo
 
 comparison = numberOne > numberTwo
 
+var oxHead = "Not soup"
 
+var oxTail = "Is indeed soup"
 
+var notEagleSoup = oxHead == oxTail
 
+print(notEagleSoup)
+
+// trying again
+
+var puffyClouds = "The clouds are white and puffy"
+
+var blueSky = "The sky is a rich, azure blue"
+
+var beautifulDay = puffyClouds == blueSky
+
+print(beautifulDay)
+
+// third time is the charm?
+
+var word = "Word up"
+
+var hello = "salutations"
+
+var isGreeting = word == hello
+
+print(isGreeting)
+
+// hm
+
+var a = 1+2
+
+var b = 5-2
+
+var c = a == b
+
+print(c)
+
+//YAAAAAAAYY!!!!!!!
